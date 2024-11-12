@@ -1,4 +1,7 @@
+// This is a server component
 export default function Home() {
+    console.log(`Hello from the server!`)
+
     return (
         <main>
             <img src="/logo.png" alt="A server surrounded by magic sparkles." />
