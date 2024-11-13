@@ -1,4 +1,4 @@
-import "./globals.css";
+import "./globals.css"; // This global CSS file is available to all pages and components in the app directory
 
 export const metadata = {
     title: "NextJS Course App",
